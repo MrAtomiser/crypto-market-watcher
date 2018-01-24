@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/osodo.iml" filepath="$PROJECT_DIR$/.idea/osodo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/crypto-market-watcher.iml" filepath="$PROJECT_DIR$/.idea/crypto-market-watcher.iml" />
+>>>>>>> a2248bb17cbdd272d3d4c4c527f536e9c92b89aa
     </modules>
   </component>
 </project>
